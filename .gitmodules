@@ -1,0 +1,3 @@
+[submodule "ultima-agent-web"]
+	path = ultima-agent-web
+	url = https://github.com/deadsg235/ultima-agent-web
