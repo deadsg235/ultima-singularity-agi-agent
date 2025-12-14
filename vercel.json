@@ -1,0 +1,7 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "ultima-agent-web/.next",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "root": "ultima-agent-web"
+}
