@@ -1,0 +1,2 @@
+# ultima-singularity-agi-agent
+GENAI REVAMP OF ULTIMA> CORE FOR SINGULARITY.IO PROJECT.
